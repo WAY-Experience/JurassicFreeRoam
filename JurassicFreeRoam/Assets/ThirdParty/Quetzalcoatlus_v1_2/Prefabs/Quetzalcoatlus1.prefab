@@ -1,0 +1,2749 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &128594580410698613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3366220085744849930}
+  m_Layer: 0
+  m_Name: QetzalRWing2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3366220085744849930
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 128594580410698613}
+  m_LocalRotation: {x: 0.022470582, y: -0.031124339, z: 0.8058998, w: 0.5908061}
+  m_LocalPosition: {x: -0.30464953, y: -0.14293632, z: 0.001405754}
+  m_LocalScale: {x: 0.9999822, y: 1.0000174, z: 0.99999946}
+  m_Children: []
+  m_Father: {fileID: 940978382095404198}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &343109378048029179
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 307238867320904759}
+  m_Layer: 0
+  m_Name: QetzalRArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &307238867320904759
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 343109378048029179}
+  m_LocalRotation: {x: 0.072319955, y: -0.80578256, z: -0.18925469, w: 0.5564773}
+  m_LocalPosition: {x: -0.07795746, y: -0.06889713, z: -0.2107147}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_Children:
+  - {fileID: 2262574024792783711}
+  m_Father: {fileID: 2542226395941635413}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &377370516745364763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2130356965041375840}
+  m_Layer: 0
+  m_Name: QetzalLLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2130356965041375840
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 377370516745364763}
+  m_LocalRotation: {x: -0.0015736351, y: -0.002188002, z: 0.060627684, w: 0.99815685}
+  m_LocalPosition: {x: -0.8000195, y: 0.000000038146972, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000011, y: 0.99999875, z: 1}
+  m_Children:
+  - {fileID: 5722428548290539705}
+  - {fileID: 4119990578032001579}
+  - {fileID: 874880587782204342}
+  - {fileID: 1225973551337966785}
+  m_Father: {fileID: 7543150633215780365}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &412370634691156578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 126967200788079604}
+  m_Layer: 0
+  m_Name: QetzalRArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &126967200788079604
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 412370634691156578}
+  m_LocalRotation: {x: -0.00004371233, y: 0.011882673, z: -0.0010223113, w: 0.9999289}
+  m_LocalPosition: {x: -1.345246, y: 0.026896553, z: -0.012593078}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.9999999}
+  m_Children:
+  - {fileID: 7780983450926819394}
+  m_Father: {fileID: 8734972148455811619}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &759948678797687341
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 29264247975816871}
+  m_Layer: 0
+  m_Name: QetzalNeck1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &29264247975816871
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 759948678797687341}
+  m_LocalRotation: {x: -8.5036383e-10, y: 0.000000018108013, z: 0.012607755, w: 0.99992055}
+  m_LocalPosition: {x: -0.21472286, y: -0.0187825, z: 0.0000000028378508}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2247599620784257579}
+  m_Father: {fileID: 2542226395941635413}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &849451950249510684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2262574024792783711}
+  m_Layer: 0
+  m_Name: QetzalRArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2262574024792783711
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 849451950249510684}
+  m_LocalRotation: {x: 0.7915709, y: -0.060693376, z: 0.22247158, w: 0.565896}
+  m_LocalPosition: {x: -0.210579, y: -0.00000015258789, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 0.99999976}
+  m_Children:
+  - {fileID: 940978382095404198}
+  m_Father: {fileID: 307238867320904759}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &890486437820281623
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8992467307189495266}
+  m_Layer: 0
+  m_Name: QetzalRArmDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8992467307189495266
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 890486437820281623}
+  m_LocalRotation: {x: -1.4210855e-14, y: -7.1567084e-15, z: -1.0170294e-28, w: 1}
+  m_LocalPosition: {x: -0.10879547, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8711566519497481323}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1146470707967615044
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8890122206639126634}
+  m_Layer: 0
+  m_Name: QetzalLLegDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8890122206639126634
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1146470707967615044}
+  m_LocalRotation: {x: -4.6566134e-10, y: 5.095751e-18, z: -0.000000010943041, w: 1}
+  m_LocalPosition: {x: -0.1021524, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5722428548290539705}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1268776234949539326
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5451640794622184309}
+  m_Layer: 0
+  m_Name: QetzalLArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5451640794622184309
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1268776234949539326}
+  m_LocalRotation: {x: 3.5527137e-15, y: 2.5362735e-15, z: -3.552714e-15, w: 1}
+  m_LocalPosition: {x: -0.11597656, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 0.9999999}
+  m_Children: []
+  m_Father: {fileID: 5127777348454968353}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1350138152409512915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7002317685557530189}
+  m_Layer: 0
+  m_Name: QetzalLWing2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7002317685557530189
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1350138152409512915}
+  m_LocalRotation: {x: -0.022469083, y: 0.031126924, z: 0.8059065, w: 0.59079695}
+  m_LocalPosition: {x: -0.30464518, y: -0.14292754, z: -0.0014035797}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4995182132031440070}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1391722411539170584
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2953166353674971687}
+  m_Layer: 0
+  m_Name: QetzalLArmDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2953166353674971687
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1391722411539170584}
+  m_LocalRotation: {x: -0.00018108934, y: -0.22264326, z: -0.0010422355, w: 0.9748994}
+  m_LocalPosition: {x: -1.3157781, y: 0.031824835, z: -0.09476377}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 4671740205660790648}
+  m_Father: {fileID: 4354321939004606196}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1496921506783506429
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8711566519497481323}
+  m_Layer: 0
+  m_Name: QetzalRArmDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8711566519497481323
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1496921506783506429}
+  m_LocalRotation: {x: 0.0000008996356, y: 0.055465955, z: -0.001023245, w: 0.99846005}
+  m_LocalPosition: {x: -1.3390206, y: 0.026882857, z: 0.042050626}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.9999999}
+  m_Children:
+  - {fileID: 8992467307189495266}
+  m_Father: {fileID: 8734972148455811619}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1555825496338011424
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7327887270384179872}
+  m_Layer: 0
+  m_Name: QetzalNeck3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7327887270384179872
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1555825496338011424}
+  m_LocalRotation: {x: -0.000000026173593, y: 0.00000007480848, z: 0.041245118, w: 0.9991491}
+  m_LocalPosition: {x: -0.68878853, y: 0.000000038146972, z: 9.094947e-15}
+  m_LocalScale: {x: 0.9999998, y: 0.9999997, z: 0.9999999}
+  m_Children:
+  - {fileID: 91497749457601264}
+  m_Father: {fileID: 2247599620784257579}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1667189766702153208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1225973551337966785}
+  m_Layer: 0
+  m_Name: QetzalLLegDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1225973551337966785
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1667189766702153208}
+  m_LocalRotation: {x: 0.0125238495, y: -0.06683064, z: 0.0802711, w: 0.9944513}
+  m_LocalPosition: {x: -0.26863205, y: -0.021977691, z: -0.0859679}
+  m_LocalScale: {x: 0.9999999, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 8752528348434208645}
+  m_Father: {fileID: 2130356965041375840}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1794440937738674799
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1827791483589576184}
+  m_Layer: 0
+  m_Name: QetzalRLegDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1827791483589576184
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1794440937738674799}
+  m_LocalRotation: {x: -0.0000000013969839, y: -0.0000000074505797, z: 0.00000001315493,
+    w: 1}
+  m_LocalPosition: {x: -0.1021524, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1750783451047363059}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1902051494334402626
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8734972148455811619}
+  m_Layer: 0
+  m_Name: QetzalRArmAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8734972148455811619
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1902051494334402626}
+  m_LocalRotation: {x: 0.7033232, y: 0.18230148, z: 0.1943056, w: 0.6590509}
+  m_LocalPosition: {x: -0.9280067, y: -0.000027313232, z: 0.0000051498414}
+  m_LocalScale: {x: 1.000013, y: 0.99999976, z: 0.99998695}
+  m_Children:
+  - {fileID: 1414653915293151223}
+  - {fileID: 126967200788079604}
+  - {fileID: 8711566519497481323}
+  - {fileID: 3965140566856951300}
+  - {fileID: 2095378617621430003}
+  m_Father: {fileID: 940978382095404198}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1907707441436115431
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4531615895120406140}
+  m_Layer: 0
+  m_Name: QetzalLArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4531615895120406140
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1907707441436115431}
+  m_LocalRotation: {x: 0.00004312712, y: -0.011713556, z: -0.0010569763, w: 0.99993086}
+  m_LocalPosition: {x: -1.3452471, y: 0.02689659, z: 0.012593117}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 0.99999994}
+  m_Children:
+  - {fileID: 3619369610367834286}
+  m_Father: {fileID: 4354321939004606196}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2004273668647684098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 586484374645590555}
+  m_Layer: 0
+  m_Name: QetzalLWing1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &586484374645590555
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2004273668647684098}
+  m_LocalRotation: {x: -0.00067986455, y: -0.68217593, z: -0.0008101266, w: 0.73118734}
+  m_LocalPosition: {x: -0.4875212, y: 0.022385444, z: -0.10479178}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+  m_Children: []
+  m_Father: {fileID: 4354321939004606196}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2411610339519185779
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9140547882222686697}
+  m_Layer: 0
+  m_Name: QetzalTongue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9140547882222686697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2411610339519185779}
+  m_LocalRotation: {x: 5.2941734e-14, y: -1.7014912e-14, z: 0.1520923, w: 0.9883663}
+  m_LocalPosition: {x: -0.39928544, y: -0.06793487, z: 0.000000011801621}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 6413832989102158178}
+  m_Father: {fileID: 2545163057117008630}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2489501633409515029
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5127777348454968353}
+  m_Layer: 0
+  m_Name: QetzalLArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5127777348454968353
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2489501633409515029}
+  m_LocalRotation: {x: 0.00010314258, y: 0.045147743, z: -0.0010528159, w: 0.9989798}
+  m_LocalPosition: {x: -1.3425162, y: 0.026890907, z: 0.061293494}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 0.99999994}
+  m_Children:
+  - {fileID: 5451640794622184309}
+  m_Father: {fileID: 4354321939004606196}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2510774605031157581
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9057463331008770663}
+  m_Layer: 0
+  m_Name: QetzalSpine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9057463331008770663
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2510774605031157581}
+  m_LocalRotation: {x: 0.000000068441686, y: -0.000000037090693, z: -0.006822275,
+    w: 0.99997675}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8906336135156284387}
+  m_Father: {fileID: 6331428986652300044}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2625680064930714546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4354321939004606196}
+  m_Layer: 0
+  m_Name: QetzalLArmAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4354321939004606196
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2625680064930714546}
+  m_LocalRotation: {x: -0.7033032, y: -0.1824296, z: 0.19442515, w: 0.65900147}
+  m_LocalPosition: {x: -0.92800593, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 5127777348454968353}
+  - {fileID: 4531615895120406140}
+  - {fileID: 6683949899108185527}
+  - {fileID: 2953166353674971687}
+  - {fileID: 586484374645590555}
+  m_Father: {fileID: 4995182132031440070}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2651920960676906449
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8906336135156284387}
+  m_Layer: 0
+  m_Name: QetzalSpine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8906336135156284387
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2651920960676906449}
+  m_LocalRotation: {x: 0.0000000821093, y: -0.000000076638955, z: -0.029984092, w: 0.9995504}
+  m_LocalPosition: {x: -0.47255713, y: 0, z: -0.000000014071501}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 2542226395941635413}
+  m_Father: {fileID: 9057463331008770663}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2703102287425321469
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6413832989102158178}
+  m_Layer: 0
+  m_Name: QetzalTongue1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6413832989102158178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2703102287425321469}
+  m_LocalRotation: {x: 5.4266362e-14, y: -1.6639381e-14, z: 0.05389576, w: 0.9985466}
+  m_LocalPosition: {x: -0.27932662, y: 0, z: -1.8189894e-14}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_Children: []
+  m_Father: {fileID: 9140547882222686697}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3113347093180271324
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3910357831503714430}
+  m_Layer: 0
+  m_Name: QetzalLLegDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3910357831503714430
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3113347093180271324}
+  m_LocalRotation: {x: -0.0000000015716068, y: -3.882164e-18, z: 0.0000000024701876,
+    w: 1}
+  m_LocalPosition: {x: -0.10161071, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4119990578032001579}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3254205850420271181
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5815586746568030429}
+  m_Layer: 0
+  m_Name: TransformQetzal
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5815586746568030429
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3254205850420271181}
+  m_LocalRotation: {x: -0.7071068, y: 7.408627e-10, z: 4.1159037e-10, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999998, y: 0.9999998, z: 1}
+  m_Children:
+  - {fileID: 6331428986652300044}
+  m_Father: {fileID: 9097042740901543171}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3343987835618817154
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8871139957062340816}
+  m_Layer: 0
+  m_Name: QetzalLArmDigit43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8871139957062340816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3343987835618817154}
+  m_LocalRotation: {x: 0.0026274219, y: -0.12141925, z: -0.0093299495, w: 0.992554}
+  m_LocalPosition: {x: -0.6187491, y: 0, z: 0.00000015258789}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.9999998}
+  m_Children: []
+  m_Father: {fileID: 4671740205660790648}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3569007439472585271
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8639814225767303066}
+  m_Layer: 0
+  m_Name: QetzalRLegDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8639814225767303066
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3569007439472585271}
+  m_LocalRotation: {x: 0.003036896, y: -0.035446912, z: 0.06650534, w: 0.9971516}
+  m_LocalPosition: {x: -0.2755374, y: -0.0212706, z: -0.012158127}
+  m_LocalScale: {x: 1.0000002, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2570675319062245747}
+  m_Father: {fileID: 198791506424382910}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3747325872325014122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 18744975981419523}
+  m_Layer: 0
+  m_Name: QetzalRArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &18744975981419523
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3747325872325014122}
+  m_LocalRotation: {x: -7.1054274e-15, y: -1.2470138e-14, z: -8.860566e-29, w: 1}
+  m_LocalPosition: {x: -0.11597656, y: 0, z: -0.000000076293944}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 1414653915293151223}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3855217986903593529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2366052338806404541}
+  m_Layer: 0
+  m_Name: Qetzalcrest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2366052338806404541
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3855217986903593529}
+  m_LocalRotation: {x: -6.001408e-15, y: 5.204994e-15, z: 0.38268337, w: 0.92387956}
+  m_LocalPosition: {x: -0.576662, y: 0.19724922, z: -0.00000003070886}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1832816289261367921}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4046531152921455803
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7873087054175752898}
+  m_Layer: 0
+  m_Name: QetzalRLegDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7873087054175752898
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4046531152921455803}
+  m_LocalRotation: {x: -0.0000000016589187, y: -0.000000024214387, z: -0.0000000054496923,
+    w: 1}
+  m_LocalPosition: {x: -0.11221634, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 7421910079783905523}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4301217434297423609
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2247599620784257579}
+  m_Layer: 0
+  m_Name: QetzalNeck2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2247599620784257579
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4301217434297423609}
+  m_LocalRotation: {x: 0.000000025198108, y: 0.000000013847599, z: 0.07673447, w: 0.9970516}
+  m_LocalPosition: {x: -0.5130167, y: -0.000000038146972, z: 1.8189894e-14}
+  m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 1}
+  m_Children:
+  - {fileID: 7327887270384179872}
+  m_Father: {fileID: 29264247975816871}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4671352329450964763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7683780471651264913}
+  - component: {fileID: 4862876056707064039}
+  m_Layer: 0
+  m_Name: Quetzalcoatlus_LOD0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7683780471651264913
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4671352329450964763}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 9097042740901543171}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4862876056707064039
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4671352329450964763}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: ec3d4e389bc9a2642bf35e3998359fe8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 2335858497017279142, guid: a2728e5839f100e4b962657379886acf, type: 3}
+  m_Bones:
+  - {fileID: 1832816289261367921}
+  - {fileID: 2366052338806404541}
+  - {fileID: 2545163057117008630}
+  - {fileID: 91497749457601264}
+  - {fileID: 7327887270384179872}
+  - {fileID: 8906336135156284387}
+  - {fileID: 2542226395941635413}
+  - {fileID: 3425308165580974575}
+  - {fileID: 29264247975816871}
+  - {fileID: 8953814389126698008}
+  - {fileID: 873490953766445462}
+  - {fileID: 2646306591403734317}
+  - {fileID: 4326121354541081151}
+  - {fileID: 7898207246822610922}
+  - {fileID: 4995182132031440070}
+  - {fileID: 4671740205660790648}
+  - {fileID: 8871139957062340816}
+  - {fileID: 6331428986652300044}
+  - {fileID: 9177799275002428452}
+  - {fileID: 9057463331008770663}
+  - {fileID: 7543150633215780365}
+  - {fileID: 7002317685557530189}
+  - {fileID: 2953166353674971687}
+  - {fileID: 586484374645590555}
+  - {fileID: 4354321939004606196}
+  - {fileID: 5127777348454968353}
+  - {fileID: 4531615895120406140}
+  - {fileID: 6683949899108185527}
+  - {fileID: 9140547882222686697}
+  - {fileID: 2130356965041375840}
+  - {fileID: 6154640712404401361}
+  - {fileID: 2247599620784257579}
+  - {fileID: 3619369610367834286}
+  - {fileID: 1870022786875176084}
+  - {fileID: 5451640794622184309}
+  - {fileID: 874880587782204342}
+  - {fileID: 1225973551337966785}
+  - {fileID: 8752528348434208645}
+  - {fileID: 4119990578032001579}
+  - {fileID: 1145936516424307047}
+  - {fileID: 5722428548290539705}
+  - {fileID: 3910357831503714430}
+  - {fileID: 8890122206639126634}
+  - {fileID: 6413832989102158178}
+  - {fileID: 307238867320904759}
+  - {fileID: 2262574024792783711}
+  - {fileID: 940978382095404198}
+  - {fileID: 3593195957357816129}
+  - {fileID: 7228424994882105604}
+  - {fileID: 3366220085744849930}
+  - {fileID: 3965140566856951300}
+  - {fileID: 2095378617621430003}
+  - {fileID: 8734972148455811619}
+  - {fileID: 1414653915293151223}
+  - {fileID: 126967200788079604}
+  - {fileID: 8711566519497481323}
+  - {fileID: 414732993133650436}
+  - {fileID: 198791506424382910}
+  - {fileID: 2806704263018429270}
+  - {fileID: 7780983450926819394}
+  - {fileID: 8992467307189495266}
+  - {fileID: 18744975981419523}
+  - {fileID: 7421910079783905523}
+  - {fileID: 1938672875375775610}
+  - {fileID: 1775661112935373105}
+  - {fileID: 8639814225767303066}
+  - {fileID: 7873087054175752898}
+  - {fileID: 1750783451047363059}
+  - {fileID: 2570675319062245747}
+  - {fileID: 1827791483589576184}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 6331428986652300044}
+  m_AABB:
+    m_Center: {x: -1.8532262, y: 0.38505477, z: -0.000021457672}
+    m_Extent: {x: 3.7319055, y: 1.4448357, z: 5.019054}
+  m_DirtyAABB: 0
+--- !u!1 &4769816625498105536
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3619369610367834286}
+  m_Layer: 0
+  m_Name: QetzalLArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3619369610367834286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4769816625498105536}
+  m_LocalRotation: {x: 0, y: 2.6271544e-15, z: -0, w: 1}
+  m_LocalPosition: {x: -0.117098995, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 0.9999999}
+  m_Children: []
+  m_Father: {fileID: 4531615895120406140}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4840256193136594812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 874880587782204342}
+  m_Layer: 0
+  m_Name: QetzalLLegDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &874880587782204342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4840256193136594812}
+  m_LocalRotation: {x: 0.0018559553, y: -0.025937362, z: 0.081199564, w: 0.99635863}
+  m_LocalPosition: {x: -0.27414322, y: -0.022028502, z: -0.042445946}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1145936516424307047}
+  m_Father: {fileID: 2130356965041375840}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4954035399454440811
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2542226395941635413}
+  m_Layer: 0
+  m_Name: QetzalRibcage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2542226395941635413
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4954035399454440811}
+  m_LocalRotation: {x: -0.000000010029393, y: -0.000000052258514, z: -0.0068222424,
+    w: 0.99997675}
+  m_LocalPosition: {x: -0.4725571, y: 0, z: 0.00000000798238}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 3425308165580974575}
+  - {fileID: 29264247975816871}
+  - {fileID: 307238867320904759}
+  m_Father: {fileID: 8906336135156284387}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4956948122199078619
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4671740205660790648}
+  m_Layer: 0
+  m_Name: QetzalLArmDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4671740205660790648
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4956948122199078619}
+  m_LocalRotation: {x: 0.0004413112, y: -0.13402759, z: -0.003582508, w: 0.990971}
+  m_LocalPosition: {x: -1.1331735, y: 0, z: -0.00000015258789}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 0.9999998}
+  m_Children:
+  - {fileID: 8871139957062340816}
+  m_Father: {fileID: 2953166353674971687}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5008479218312435337
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6331428986652300044}
+  m_Layer: 0
+  m_Name: QetzalPelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6331428986652300044
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5008479218312435337}
+  m_LocalRotation: {x: 0.5000002, y: 0.49999994, z: -0.49999997, w: -0.50000006}
+  m_LocalPosition: {x: 0.00000039416304, y: 0.6494901, z: 0.61661994}
+  m_LocalScale: {x: 1.0000002, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 8953814389126698008}
+  - {fileID: 9177799275002428452}
+  - {fileID: 9057463331008770663}
+  - {fileID: 873490953766445462}
+  m_Father: {fileID: 5815586746568030429}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5025600531792922038
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7228424994882105604}
+  m_Layer: 0
+  m_Name: QetzalRArmDigit43
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7228424994882105604
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5025600531792922038}
+  m_LocalRotation: {x: -0.0026274207, y: 0.121418685, z: -0.009329951, w: 0.99255407}
+  m_LocalPosition: {x: -0.6187491, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 3593195957357816129}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5040658588127700693
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3593195957357816129}
+  m_Layer: 0
+  m_Name: QetzalRArmDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3593195957357816129
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5040658588127700693}
+  m_LocalRotation: {x: -0.0004413117, y: 0.13402756, z: -0.0035825071, w: 0.990971}
+  m_LocalPosition: {x: -1.1331741, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7228424994882105604}
+  m_Father: {fileID: 3965140566856951300}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5188502695333850124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7780983450926819394}
+  m_Layer: 0
+  m_Name: QetzalRArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7780983450926819394
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5188502695333850124}
+  m_LocalRotation: {x: 0, y: -9.658436e-15, z: -0, w: 1}
+  m_LocalPosition: {x: -0.117098995, y: -0.000000038146972, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 126967200788079604}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5372393446140900809
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9177799275002428452}
+  m_Layer: 0
+  m_Name: QetzalRLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9177799275002428452
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5372393446140900809}
+  m_LocalRotation: {x: -0.28245527, y: 0.6513501, z: -0.64899695, w: -0.27343202}
+  m_LocalPosition: {x: 0.02203247, y: -0.000000076293944, z: -0.15751763}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 414732993133650436}
+  m_Father: {fileID: 6331428986652300044}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5851458797905663006
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8880908790079911079}
+  - component: {fileID: 5782394105338519708}
+  m_Layer: 0
+  m_Name: Quetzalcoatlus_LOD1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8880908790079911079
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5851458797905663006}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 9097042740901543171}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5782394105338519708
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5851458797905663006}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: ec3d4e389bc9a2642bf35e3998359fe8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -7232830248495950212, guid: a2728e5839f100e4b962657379886acf, type: 3}
+  m_Bones:
+  - {fileID: 1832816289261367921}
+  - {fileID: 2366052338806404541}
+  - {fileID: 91497749457601264}
+  - {fileID: 2545163057117008630}
+  - {fileID: 7327887270384179872}
+  - {fileID: 8953814389126698008}
+  - {fileID: 873490953766445462}
+  - {fileID: 2646306591403734317}
+  - {fileID: 4326121354541081151}
+  - {fileID: 4671740205660790648}
+  - {fileID: 8871139957062340816}
+  - {fileID: 7898207246822610922}
+  - {fileID: 4995182132031440070}
+  - {fileID: 7002317685557530189}
+  - {fileID: 2953166353674971687}
+  - {fileID: 586484374645590555}
+  - {fileID: 4354321939004606196}
+  - {fileID: 5127777348454968353}
+  - {fileID: 4531615895120406140}
+  - {fileID: 6683949899108185527}
+  - {fileID: 2542226395941635413}
+  - {fileID: 3425308165580974575}
+  - {fileID: 29264247975816871}
+  - {fileID: 9057463331008770663}
+  - {fileID: 8906336135156284387}
+  - {fileID: 7543150633215780365}
+  - {fileID: 6331428986652300044}
+  - {fileID: 2130356965041375840}
+  - {fileID: 6154640712404401361}
+  - {fileID: 9177799275002428452}
+  - {fileID: 3619369610367834286}
+  - {fileID: 1870022786875176084}
+  - {fileID: 5451640794622184309}
+  - {fileID: 874880587782204342}
+  - {fileID: 1225973551337966785}
+  - {fileID: 8752528348434208645}
+  - {fileID: 4119990578032001579}
+  - {fileID: 1145936516424307047}
+  - {fileID: 5722428548290539705}
+  - {fileID: 3910357831503714430}
+  - {fileID: 8890122206639126634}
+  - {fileID: 9140547882222686697}
+  - {fileID: 2247599620784257579}
+  - {fileID: 6413832989102158178}
+  - {fileID: 307238867320904759}
+  - {fileID: 3593195957357816129}
+  - {fileID: 7228424994882105604}
+  - {fileID: 2262574024792783711}
+  - {fileID: 940978382095404198}
+  - {fileID: 3366220085744849930}
+  - {fileID: 3965140566856951300}
+  - {fileID: 2095378617621430003}
+  - {fileID: 8734972148455811619}
+  - {fileID: 1414653915293151223}
+  - {fileID: 126967200788079604}
+  - {fileID: 8711566519497481323}
+  - {fileID: 414732993133650436}
+  - {fileID: 198791506424382910}
+  - {fileID: 2806704263018429270}
+  - {fileID: 7780983450926819394}
+  - {fileID: 8992467307189495266}
+  - {fileID: 18744975981419523}
+  - {fileID: 7421910079783905523}
+  - {fileID: 1938672875375775610}
+  - {fileID: 1775661112935373105}
+  - {fileID: 8639814225767303066}
+  - {fileID: 7873087054175752898}
+  - {fileID: 1750783451047363059}
+  - {fileID: 2570675319062245747}
+  - {fileID: 1827791483589576184}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 6331428986652300044}
+  m_AABB:
+    m_Center: {x: -1.8532519, y: 0.38505477, z: -0.000021219254}
+    m_Extent: {x: 3.7318797, y: 1.4448357, z: 5.0151176}
+  m_DirtyAABB: 0
+--- !u!1 &5859650191268654428
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1414653915293151223}
+  m_Layer: 0
+  m_Name: QetzalRArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1414653915293151223
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5859650191268654428}
+  m_LocalRotation: {x: -0.000101756246, y: -0.04497878, z: -0.0010181734, w: 0.99898744}
+  m_LocalPosition: {x: -1.3425152, y: 0.026890868, z: -0.061293516}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 18744975981419523}
+  m_Father: {fileID: 8734972148455811619}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5934230057035746420
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 940978382095404198}
+  m_Layer: 0
+  m_Name: QetzalRArm2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &940978382095404198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5934230057035746420}
+  m_LocalRotation: {x: -0.0042066295, y: 0.035743944, z: -0.6987767, w: 0.7144339}
+  m_LocalPosition: {x: -0.63651276, y: -0.00000064849854, z: 0.00000019073485}
+  m_LocalScale: {x: 1.0000006, y: 0.9999995, z: 0.9999996}
+  m_Children:
+  - {fileID: 8734972148455811619}
+  - {fileID: 3366220085744849930}
+  m_Father: {fileID: 2262574024792783711}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5962110439163848244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2095378617621430003}
+  m_Layer: 0
+  m_Name: QetzalRWing1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2095378617621430003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5962110439163848244}
+  m_LocalRotation: {x: 0.0006800456, y: 0.68217593, z: -0.00081030565, w: 0.73118734}
+  m_LocalPosition: {x: -0.4875212, y: 0.022385444, z: 0.10479176}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 8734972148455811619}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6147250852522908717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4995182132031440070}
+  m_Layer: 0
+  m_Name: QetzalLArm2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4995182132031440070
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6147250852522908717}
+  m_LocalRotation: {x: 0.004240948, y: -0.035707686, z: -0.698794, w: 0.7144186}
+  m_LocalPosition: {x: -0.6365125, y: -0.00000064849854, z: -0.00000019073485}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 4354321939004606196}
+  - {fileID: 7002317685557530189}
+  m_Father: {fileID: 7898207246822610922}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6157656752365038076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1775661112935373105}
+  m_Layer: 0
+  m_Name: QetzalRLegDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1775661112935373105
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6157656752365038076}
+  m_LocalRotation: {x: -1.4311465e-17, y: 0.0000000074505797, z: 0.0000000019208526,
+    w: 1}
+  m_LocalPosition: {x: -0.099115595, y: -0.000000076293944, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1938672875375775610}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6162855931397191178
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8752528348434208645}
+  m_Layer: 0
+  m_Name: QetzalLLegDigit42
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8752528348434208645
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6162855931397191178}
+  m_LocalRotation: {x: 9.313227e-10, y: -0.000000007450581, z: -4.656613e-10, w: 1}
+  m_LocalPosition: {x: -0.099115446, y: 0.00000015258789, z: 0.000000038146972}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1225973551337966785}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6211624993773992185
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1223886184313266105}
+  - component: {fileID: 2872449803929100496}
+  m_Layer: 0
+  m_Name: Quetzalcoatlus_LOD2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1223886184313266105
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6211624993773992185}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 9097042740901543171}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2872449803929100496
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6211624993773992185}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: ec3d4e389bc9a2642bf35e3998359fe8, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -5950053242415216306, guid: a2728e5839f100e4b962657379886acf, type: 3}
+  m_Bones:
+  - {fileID: 1832816289261367921}
+  - {fileID: 2366052338806404541}
+  - {fileID: 91497749457601264}
+  - {fileID: 2545163057117008630}
+  - {fileID: 8953814389126698008}
+  - {fileID: 7898207246822610922}
+  - {fileID: 4995182132031440070}
+  - {fileID: 7002317685557530189}
+  - {fileID: 586484374645590555}
+  - {fileID: 2646306591403734317}
+  - {fileID: 4326121354541081151}
+  - {fileID: 2953166353674971687}
+  - {fileID: 4671740205660790648}
+  - {fileID: 4354321939004606196}
+  - {fileID: 5127777348454968353}
+  - {fileID: 4531615895120406140}
+  - {fileID: 6683949899108185527}
+  - {fileID: 8871139957062340816}
+  - {fileID: 2542226395941635413}
+  - {fileID: 3425308165580974575}
+  - {fileID: 29264247975816871}
+  - {fileID: 7543150633215780365}
+  - {fileID: 6331428986652300044}
+  - {fileID: 9057463331008770663}
+  - {fileID: 8906336135156284387}
+  - {fileID: 2130356965041375840}
+  - {fileID: 873490953766445462}
+  - {fileID: 6154640712404401361}
+  - {fileID: 3619369610367834286}
+  - {fileID: 1870022786875176084}
+  - {fileID: 5451640794622184309}
+  - {fileID: 8752528348434208645}
+  - {fileID: 1225973551337966785}
+  - {fileID: 4119990578032001579}
+  - {fileID: 874880587782204342}
+  - {fileID: 1145936516424307047}
+  - {fileID: 5722428548290539705}
+  - {fileID: 3910357831503714430}
+  - {fileID: 8890122206639126634}
+  - {fileID: 7327887270384179872}
+  - {fileID: 9140547882222686697}
+  - {fileID: 2247599620784257579}
+  - {fileID: 9177799275002428452}
+  - {fileID: 6413832989102158178}
+  - {fileID: 307238867320904759}
+  - {fileID: 2262574024792783711}
+  - {fileID: 940978382095404198}
+  - {fileID: 3366220085744849930}
+  - {fileID: 2095378617621430003}
+  - {fileID: 3965140566856951300}
+  - {fileID: 3593195957357816129}
+  - {fileID: 7228424994882105604}
+  - {fileID: 8734972148455811619}
+  - {fileID: 1414653915293151223}
+  - {fileID: 126967200788079604}
+  - {fileID: 8711566519497481323}
+  - {fileID: 414732993133650436}
+  - {fileID: 198791506424382910}
+  - {fileID: 2806704263018429270}
+  - {fileID: 7780983450926819394}
+  - {fileID: 8992467307189495266}
+  - {fileID: 18744975981419523}
+  - {fileID: 1775661112935373105}
+  - {fileID: 1938672875375775610}
+  - {fileID: 8639814225767303066}
+  - {fileID: 7421910079783905523}
+  - {fileID: 7873087054175752898}
+  - {fileID: 1750783451047363059}
+  - {fileID: 2570675319062245747}
+  - {fileID: 1827791483589576184}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 6331428986652300044}
+  m_AABB:
+    m_Center: {x: -1.8521762, y: 0.3890379, z: -0.000020980835}
+    m_Extent: {x: 3.730804, y: 1.439981, z: 4.985342}
+  m_DirtyAABB: 0
+--- !u!1 &6256725606058301298
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1870022786875176084}
+  m_Layer: 0
+  m_Name: QetzalLArmDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1870022786875176084
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6256725606058301298}
+  m_LocalRotation: {x: 0, y: 2.6051212e-15, z: -0, w: 1}
+  m_LocalPosition: {x: -0.10879547, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 6683949899108185527}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6365619495709528067
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1145936516424307047}
+  m_Layer: 0
+  m_Name: QetzalLLegDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1145936516424307047
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6365619495709528067}
+  m_LocalRotation: {x: -0.0000000014551916, y: -0.000000027939679, z: 0.0000000022282622,
+    w: 1}
+  m_LocalPosition: {x: -0.11221618, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 874880587782204342}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6456220725899374874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2646306591403734317}
+  m_Layer: 0
+  m_Name: QetzalTail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2646306591403734317
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6456220725899374874}
+  m_LocalRotation: {x: -1.3212322e-13, y: 0.000000013189453, z: -0.08734731, w: 0.9961779}
+  m_LocalPosition: {x: -0.26019266, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 4326121354541081151}
+  m_Father: {fileID: 873490953766445462}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6763390216173420295
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2806704263018429270}
+  m_Layer: 0
+  m_Name: QetzalREyelid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2806704263018429270
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6763390216173420295}
+  m_LocalRotation: {x: 0.065263025, y: -0.49572238, z: -0.4653153, w: 0.73039836}
+  m_LocalPosition: {x: -0.058240354, y: -0.05852684, z: -0.11974875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1832816289261367921}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6869849537280492492
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3425308165580974575}
+  m_Layer: 0
+  m_Name: QetzalLArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3425308165580974575
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6869849537280492492}
+  m_LocalRotation: {x: -0.07232034, y: 0.8057826, z: -0.18925452, w: 0.5564772}
+  m_LocalPosition: {x: -0.07795746, y: -0.06889705, z: 0.21071465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7898207246822610922}
+  m_Father: {fileID: 2542226395941635413}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7102388753663892027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3965140566856951300}
+  m_Layer: 0
+  m_Name: QetzalRArmDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3965140566856951300
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7102388753663892027}
+  m_LocalRotation: {x: 0.00017319586, y: 0.22280815, z: -0.0010084765, w: 0.9748618}
+  m_LocalPosition: {x: -1.3157773, y: 0.031824835, z: 0.09476389}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 3593195957357816129}
+  m_Father: {fileID: 8734972148455811619}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7204147816824620561
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 414732993133650436}
+  m_Layer: 0
+  m_Name: QetzalRLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &414732993133650436
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7204147816824620561}
+  m_LocalRotation: {x: 0.000056630637, y: 0.0038914161, z: 0.26404637, w: 0.96450216}
+  m_LocalPosition: {x: -0.84093535, y: 0.0000037002562, z: -0.00000064849854}
+  m_LocalScale: {x: 1.0000165, y: 0.9999835, z: 0.9999998}
+  m_Children:
+  - {fileID: 198791506424382910}
+  m_Father: {fileID: 9177799275002428452}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7231592188094507507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4119990578032001579}
+  m_Layer: 0
+  m_Name: QetzalLLegDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4119990578032001579
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7231592188094507507}
+  m_LocalRotation: {x: -0.0030368832, y: 0.035446927, z: 0.0665049, w: 0.9971517}
+  m_LocalPosition: {x: -0.2755374, y: -0.021270065, z: 0.012158127}
+  m_LocalScale: {x: 0.9999999, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 3910357831503714430}
+  m_Father: {fileID: 2130356965041375840}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7353240942710773532
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2545163057117008630}
+  m_Layer: 0
+  m_Name: QetzalJaw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2545163057117008630
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7353240942710773532}
+  m_LocalRotation: {x: 7.0998774e-10, y: -0.000000094910014, z: -0.6298213, w: 0.7767401}
+  m_LocalPosition: {x: -0.029197996, y: 0.13106124, z: -0.00000023311382}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 9140547882222686697}
+  m_Father: {fileID: 1832816289261367921}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7503558601657781719
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 873490953766445462}
+  m_Layer: 0
+  m_Name: QetzalTail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &873490953766445462
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7503558601657781719}
+  m_LocalRotation: {x: 0.000000015785185, y: -4.074276e-14, z: 0.9945207, w: -0.10453985}
+  m_LocalPosition: {x: 0.06936149, y: -0.06768444, z: 0.000000010220028}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2646306591403734317}
+  m_Father: {fileID: 6331428986652300044}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7504525714143071398
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 198791506424382910}
+  m_Layer: 0
+  m_Name: QetzalRLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &198791506424382910
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7504525714143071398}
+  m_LocalRotation: {x: 0.0015667999, y: 0.002188104, z: 0.060565677, w: 0.9981606}
+  m_LocalPosition: {x: -0.8000511, y: -0.000025901794, z: -0.000003929138}
+  m_LocalScale: {x: 1.0000231, y: 0.9999769, z: 0.9999998}
+  m_Children:
+  - {fileID: 1750783451047363059}
+  - {fileID: 8639814225767303066}
+  - {fileID: 7421910079783905523}
+  - {fileID: 1938672875375775610}
+  m_Father: {fileID: 414732993133650436}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7516228818949169265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8953814389126698008}
+  m_Layer: 0
+  m_Name: QetzalLLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8953814389126698008
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7516228818949169265}
+  m_LocalRotation: {x: -0.28243992, y: 0.6513551, z: 0.6490023, w: 0.27342322}
+  m_LocalPosition: {x: 0.022032317, y: -0.000000076293944, z: 0.15751761}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 7543150633215780365}
+  m_Father: {fileID: 6331428986652300044}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7685948878631268193
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6154640712404401361}
+  m_Layer: 0
+  m_Name: QetzalLEyelid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6154640712404401361
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7685948878631268193}
+  m_LocalRotation: {x: -0.065263055, y: 0.49572244, z: -0.4653153, w: 0.73039836}
+  m_LocalPosition: {x: -0.058240354, y: -0.058526915, z: 0.11974877}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1832816289261367921}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7981604909646700022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1832816289261367921}
+  m_Layer: 0
+  m_Name: QetzalHead
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1832816289261367921
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7981604909646700022}
+  m_LocalRotation: {x: -0.000000014091671, y: -0.0000000024771494, z: 0.056682535,
+    w: 0.9983923}
+  m_LocalPosition: {x: -0.6439215, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 2366052338806404541}
+  - {fileID: 2545163057117008630}
+  - {fileID: 6154640712404401361}
+  - {fileID: 2806704263018429270}
+  m_Father: {fileID: 91497749457601264}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8148706942867470799
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 91497749457601264}
+  m_Layer: 0
+  m_Name: QetzalNeck4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &91497749457601264
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8148706942867470799}
+  m_LocalRotation: {x: 0.000000001235077, y: -0.000000059132574, z: 0.074342944, w: 0.99723274}
+  m_LocalPosition: {x: -0.723526, y: 0.000000076293944, z: -7.2759575e-14}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 1832816289261367921}
+  m_Father: {fileID: 7327887270384179872}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8387158228034234825
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6683949899108185527}
+  m_Layer: 0
+  m_Name: QetzalLArmDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6683949899108185527
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8387158228034234825}
+  m_LocalRotation: {x: -0.0000029956095, y: -0.055297088, z: -0.0010578516, w: 0.9984694}
+  m_LocalPosition: {x: -1.339021, y: 0.026882896, z: -0.042050626}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 1870022786875176084}
+  m_Father: {fileID: 4354321939004606196}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8468156965602198095
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4326121354541081151}
+  m_Layer: 0
+  m_Name: QetzalTail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4326121354541081151
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8468156965602198095}
+  m_LocalRotation: {x: 0.0000000016519297, y: 0.00000001886694, z: -0.03849158, w: 0.99925894}
+  m_LocalPosition: {x: -0.19756714, y: 0.000000076293944, z: 2.5465852e-13}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2646306591403734317}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8536631134951563758
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7898207246822610922}
+  m_Layer: 0
+  m_Name: QetzalLArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7898207246822610922
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8536631134951563758}
+  m_LocalRotation: {x: -0.7915708, y: 0.060693912, z: 0.2224715, w: 0.56589615}
+  m_LocalPosition: {x: -0.210579, y: 0.000000076293944, z: 0.000000038146972}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1.0000001}
+  m_Children:
+  - {fileID: 4995182132031440070}
+  m_Father: {fileID: 3425308165580974575}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8550867314150180332
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7421910079783905523}
+  m_Layer: 0
+  m_Name: QetzalRLegDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7421910079783905523
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8550867314150180332}
+  m_LocalRotation: {x: -0.0018559657, y: 0.025937323, z: 0.0812, w: 0.9963586}
+  m_LocalPosition: {x: -0.27414322, y: -0.02202919, z: 0.042445984}
+  m_LocalScale: {x: 1.0000002, y: 0.99999976, z: 1}
+  m_Children:
+  - {fileID: 7873087054175752898}
+  m_Father: {fileID: 198791506424382910}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8639015654103134783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2570675319062245747}
+  m_Layer: 0
+  m_Name: QetzalRLegDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2570675319062245747
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8639015654103134783}
+  m_LocalRotation: {x: -0.0000000016880223, y: 0.0000000037252903, z: -0.0000000016807462,
+    w: 1}
+  m_LocalPosition: {x: -0.10161087, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8639814225767303066}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8825700219545990790
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1750783451047363059}
+  m_Layer: 0
+  m_Name: QetzalRLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1750783451047363059
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8825700219545990790}
+  m_LocalRotation: {x: -0.000547662, y: -0.07987309, z: 0.07142097, w: 0.99424297}
+  m_LocalPosition: {x: -0.2720082, y: -0.017811356, z: -0.060227852}
+  m_LocalScale: {x: 1.0000002, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1827791483589576184}
+  m_Father: {fileID: 198791506424382910}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9036346840935868940
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5722428548290539705}
+  m_Layer: 0
+  m_Name: QetzalLLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5722428548290539705
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9036346840935868940}
+  m_LocalRotation: {x: 0.0005476946, y: 0.07987312, z: 0.071420506, w: 0.99424297}
+  m_LocalPosition: {x: -0.2720082, y: -0.017810898, z: 0.060227852}
+  m_LocalScale: {x: 0.99999976, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 8890122206639126634}
+  m_Father: {fileID: 2130356965041375840}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9097042740901634339
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9097042740901543171}
+  - component: {fileID: 9097042740892242799}
+  - component: {fileID: 3690166031678888913}
+  m_Layer: 0
+  m_Name: Quetzalcoatlus
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9097042740901543171
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9097042740901634339}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7683780471651264913}
+  - {fileID: 8880908790079911079}
+  - {fileID: 1223886184313266105}
+  - {fileID: 5815586746568030429}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &9097042740892242799
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9097042740901634339}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: a2728e5839f100e4b962657379886acf, type: 3}
+  m_Controller: {fileID: 9100000, guid: 46cc848f4a256a748b24d554ee354f51, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!205 &3690166031678888913
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9097042740901634339}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: 0.00002193451, y: 0.23156524, z: 1.2037368}
+  m_Size: 10.038112
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.25
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 4862876056707064039}
+  - screenRelativeHeight: 0.125
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 5782394105338519708}
+  - screenRelativeHeight: 0.01
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 2872449803929100496}
+  m_Enabled: 1
+--- !u!1 &9186206020068828874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7543150633215780365}
+  m_Layer: 0
+  m_Name: QetzalLLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7543150633215780365
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9186206020068828874}
+  m_LocalRotation: {x: -0.000050979193, y: -0.003888048, z: 0.26395276, w: 0.9645278}
+  m_LocalPosition: {x: -0.84093535, y: 0.0000036621093, z: 0.00000061035155}
+  m_LocalScale: {x: 1.0000036, y: 0.99999684, z: 1.0000002}
+  m_Children:
+  - {fileID: 2130356965041375840}
+  m_Father: {fileID: 8953814389126698008}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9203325037726770781
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1938672875375775610}
+  m_Layer: 0
+  m_Name: QetzalRLegDigit41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1938672875375775610
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9203325037726770781}
+  m_LocalRotation: {x: -0.012523879, y: 0.066830605, z: 0.08027155, w: 0.9944513}
+  m_LocalPosition: {x: -0.26863205, y: -0.021978226, z: 0.08596786}
+  m_LocalScale: {x: 1.0000002, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1775661112935373105}
+  m_Father: {fileID: 198791506424382910}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

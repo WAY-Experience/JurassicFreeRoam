@@ -1,0 +1,2938 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &156871934348326410
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3615883392569469268}
+  m_Layer: 0
+  m_Name: DeinonychusLArmDigit02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3615883392569469268
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 156871934348326410}
+  m_LocalRotation: {x: -0.0000019371482, y: 0.0000011473873, z: 0.0000012032713, w: 1}
+  m_LocalPosition: {x: -0.0545347, y: -0.0000001335144, z: 0.00000015258789}
+  m_LocalScale: {x: 0.9999998, y: 1.0000021, z: 0.9999984}
+  m_Children: []
+  m_Father: {fileID: 53616946420219077}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &390574950800019819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1892993464164591758}
+  m_Layer: 0
+  m_Name: DeinonychusNeck3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1892993464164591758
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 390574950800019819}
+  m_LocalRotation: {x: -0.00000026036275, y: 0.0000015349123, z: -0.17984065, w: 0.98369575}
+  m_LocalPosition: {x: -0.15978165, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999917, y: 1.0000007, z: 0.9999998}
+  m_Children:
+  - {fileID: 5921905488445953095}
+  m_Father: {fileID: 237714751690080989}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &499577591089639130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2400928876166488693}
+  m_Layer: 0
+  m_Name: DeinonychusLLegDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2400928876166488693
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 499577591089639130}
+  m_LocalRotation: {x: 0.00000022351736, y: 0.00000016245765, z: 0.00000035669652,
+    w: 1}
+  m_LocalPosition: {x: -0.06533333, y: -0.00000004529953, z: 0.000000019073486}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1488856907102486826}
+  m_Father: {fileID: 9212753001055237385}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &614387902136439662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2943635194721958492}
+  m_Layer: 0
+  m_Name: Deinonychus_R_ForearmFeathers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2943635194721958492
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 614387902136439662}
+  m_LocalRotation: {x: -0.00000059557635, y: 0.0000017886267, z: 0.67559004, w: 0.7372775}
+  m_LocalPosition: {x: -0.11795681, y: 0.0013535309, z: 0.032496262}
+  m_LocalScale: {x: 1.0000026, y: 0.999999, z: 0.99999833}
+  m_Children: []
+  m_Father: {fileID: 2827359114916147913}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &833698732719792225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3308453159258187600}
+  m_Layer: 0
+  m_Name: DeinonychusLArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3308453159258187600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 833698732719792225}
+  m_LocalRotation: {x: -0.06483928, y: -0.037386354, z: 0.047716018, w: 0.9960529}
+  m_LocalPosition: {x: -0.043411367, y: -0.011454925, z: 0.008746643}
+  m_LocalScale: {x: 0.9999982, y: 1.000002, z: 1}
+  m_Children:
+  - {fileID: 5105020217191148540}
+  m_Father: {fileID: 1422391062849269027}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1040110448622333220
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5627609682997202231}
+  m_Layer: 0
+  m_Name: DeinonychusRArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5627609682997202231
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1040110448622333220}
+  m_LocalRotation: {x: 0.06483485, y: 0.03738805, z: 0.047715753, w: 0.9960531}
+  m_LocalPosition: {x: -0.043411445, y: -0.011454773, z: -0.008746376}
+  m_LocalScale: {x: 1.0000017, y: 0.99999803, z: 1.0000001}
+  m_Children:
+  - {fileID: 2003548698918959390}
+  m_Father: {fileID: 5597016808185452864}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1249567581108925515
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6061449156307354423}
+  m_Layer: 0
+  m_Name: DeinonychusLArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6061449156307354423
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1249567581108925515}
+  m_LocalRotation: {x: -0.056120813, y: -0.19123438, z: 0.07784211, w: 0.9768421}
+  m_LocalPosition: {x: -0.046943128, y: -0.014545707, z: -0.030761871}
+  m_LocalScale: {x: 0.9999973, y: 1.000002, z: 1.000001}
+  m_Children:
+  - {fileID: 7067156372265573899}
+  m_Father: {fileID: 1422391062849269027}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1346962714403154030
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5183545622643809361}
+  m_Layer: 0
+  m_Name: DeinonychusTail03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5183545622643809361
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1346962714403154030}
+  m_LocalRotation: {x: 0.0000018217877, y: -0.00005076411, z: -0.03498855, w: 0.99938774}
+  m_LocalPosition: {x: -0.21130659, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.9999997, y: 0.99999994, z: 0.9999998}
+  m_Children:
+  - {fileID: 8068335472543288387}
+  m_Father: {fileID: 4272451581476423239}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1465139658807127641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1653731461590661296}
+  m_Layer: 0
+  m_Name: DeinonychusRLegDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1653731461590661296
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1465139658807127641}
+  m_LocalRotation: {x: -0.000000013038517, y: -5.2386306e-10, z: -0.00000045448547,
+    w: 1}
+  m_LocalPosition: {x: -0.05663334, y: 0.0000000500679, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_Children:
+  - {fileID: 609209908802090874}
+  m_Father: {fileID: 3282149180250029836}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1473154580033598167
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1796457216358821488}
+  m_Layer: 0
+  m_Name: DeinonychusLLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1796457216358821488
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473154580033598167}
+  m_LocalRotation: {x: 0.7308048, y: -0.68163735, z: -0.01689957, w: -0.031769343}
+  m_LocalPosition: {x: 0.052618947, y: -0.03849342, z: 0.12067909}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3697094941009828882}
+  m_Father: {fileID: 5185483665406170916}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1473538199640736344
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5597016808185452864}
+  m_Layer: 0
+  m_Name: DeinonychusRArmPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5597016808185452864
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473538199640736344}
+  m_LocalRotation: {x: 0.62716264, y: 0.24516965, z: 0.23247623, w: 0.7017932}
+  m_LocalPosition: {x: -0.23909049, y: -0.00000022888183, z: 0.00000089645386}
+  m_LocalScale: {x: 1.0000017, y: 0.9999991, z: 0.9999992}
+  m_Children:
+  - {fileID: 3786123874806771714}
+  - {fileID: 95646774843092134}
+  - {fileID: 5627609682997202231}
+  - {fileID: 31412317152167651}
+  m_Father: {fileID: 2827359114916147913}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1521542094829516612
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5105020217191148540}
+  m_Layer: 0
+  m_Name: DeinonychusLArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5105020217191148540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1521542094829516612}
+  m_LocalRotation: {x: -0.0000022970733, y: 0.0000009685772, z: 0.000000031201587,
+    w: 1}
+  m_LocalPosition: {x: -0.07086651, y: 0.000000019073486, z: 0.00000015258789}
+  m_LocalScale: {x: 0.9999982, y: 1.0000021, z: 1}
+  m_Children:
+  - {fileID: 3570829957781991209}
+  m_Father: {fileID: 3308453159258187600}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1601853779487024353
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3889308239434342836}
+  m_Layer: 0
+  m_Name: Deinonychus_L_ForearmFeathers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3889308239434342836
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1601853779487024353}
+  m_LocalRotation: {x: 0.00000517399, y: -0.000000827073, z: 0.67559063, w: 0.73727703}
+  m_LocalPosition: {x: -0.117956825, y: 0.0013536072, z: -0.03249548}
+  m_LocalScale: {x: 0.9999975, y: 1.0000011, z: 1.0000018}
+  m_Children: []
+  m_Father: {fileID: 2481266132309420552}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1638002945037616844
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2858522264902216141}
+  m_Layer: 0
+  m_Name: DeinonychusRArmDigit13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2858522264902216141
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1638002945037616844}
+  m_LocalRotation: {x: -0.0000022862268, y: 0.0000009350465, z: -0.000000020021266,
+    w: 1}
+  m_LocalPosition: {x: -0.07086677, y: 0, z: 0.00000015258789}
+  m_LocalScale: {x: 1.0000015, y: 0.99999803, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 2003548698918959390}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1705782933005127118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2082906197509379956}
+  - component: {fileID: 1976307673909473910}
+  m_Layer: 0
+  m_Name: Deinonychus_HiRes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2082906197509379956
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1705782933005127118}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5904729644249096887}
+  - {fileID: 7444217987930523995}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1976307673909473910
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1705782933005127118}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 66eb1f8302f7c8249a18d2b2935dea61, type: 3}
+  m_Controller: {fileID: 9100000, guid: 5544479e9ad2ba746aa18c63bc0b5d7f, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &1800298698387350642
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 53616946420219077}
+  m_Layer: 0
+  m_Name: DeinonychusLArmDigit01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &53616946420219077
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1800298698387350642}
+  m_LocalRotation: {x: -0.096582636, y: 0.09897328, z: 0.079645745, w: 0.9871842}
+  m_LocalPosition: {x: -0.032563742, y: -0.005639534, z: 0.047183342}
+  m_LocalScale: {x: 0.99999976, y: 1.000002, z: 0.99999845}
+  m_Children:
+  - {fileID: 3615883392569469268}
+  m_Father: {fileID: 1422391062849269027}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1891492283283855906
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2354356027737493603}
+  m_Layer: 0
+  m_Name: DeinonychusTail07
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2354356027737493603
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1891492283283855906}
+  m_LocalRotation: {x: -0.00000035679594, y: 0.0000016566693, z: 0.030476255, w: 0.9995355}
+  m_LocalPosition: {x: -0.21137267, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 4597293715774513838}
+  m_Father: {fileID: 5567497844889758588}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2052504166540027786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1789140331344490040}
+  m_Layer: 0
+  m_Name: DeinonychusTail09
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1789140331344490040
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2052504166540027786}
+  m_LocalRotation: {x: 0.0000006090156, y: 0.000002814672, z: 0.03241623, w: 0.99947447}
+  m_LocalPosition: {x: -0.21137314, y: -0.000000076293944, z: -5.820766e-13}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 2594236368894819235}
+  m_Father: {fileID: 4597293715774513838}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2249629084667181131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2594236368894819235}
+  m_Layer: 0
+  m_Name: DeinonychusTail10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2594236368894819235
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2249629084667181131}
+  m_LocalRotation: {x: 0.00019268741, y: 0.0016829328, z: -0.010160442, w: 0.99994695}
+  m_LocalPosition: {x: -0.21137299, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1789140331344490040}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2270322775652542260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 679103771585253206}
+  m_Layer: 0
+  m_Name: DeinonychusLLegDigit01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &679103771585253206
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2270322775652542260}
+  m_LocalRotation: {x: 0.7169795, y: 0.34753558, z: -0.16368334, w: 0.5816934}
+  m_LocalPosition: {x: -0.101789795, y: -0.0006322384, z: 0.054000184}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 1480333304896571881}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2337536059654603408
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1480333304896571881}
+  m_Layer: 0
+  m_Name: DeinonychusLLegPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1480333304896571881
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2337536059654603408}
+  m_LocalRotation: {x: 0.030385885, y: 0.01710329, z: -0.5320807, w: 0.8459754}
+  m_LocalPosition: {x: -0.40436763, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999997, y: 1.0000002, z: 0.99999994}
+  m_Children:
+  - {fileID: 679103771585253206}
+  - {fileID: 5530033571023253676}
+  - {fileID: 890785265551713037}
+  - {fileID: 9212753001055237385}
+  m_Father: {fileID: 3697094941009828882}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2352053953572478547
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7446530084801448350}
+  m_Layer: 0
+  m_Name: DeinonychusLLegDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7446530084801448350
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2352053953572478547}
+  m_LocalRotation: {x: -0.000000013038517, y: -0.0000000014551975, z: 0.00000046007338,
+    w: 1}
+  m_LocalPosition: {x: -0.056633323, y: -0.00000005364418, z: 0.000000019073486}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1282610189181058080}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2667974618554413865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 31412317152167651}
+  m_Layer: 0
+  m_Name: DeinonychusRArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &31412317152167651
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2667974618554413865}
+  m_LocalRotation: {x: 0.05611622, y: 0.19123518, z: 0.07784327, w: 0.97684216}
+  m_LocalPosition: {x: -0.04694336, y: -0.01454586, z: 0.030762138}
+  m_LocalScale: {x: 1.0000025, y: 0.9999982, z: 0.99999905}
+  m_Children:
+  - {fileID: 2694566190539569404}
+  m_Father: {fileID: 5597016808185452864}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2686794085482077984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 48668852196452372}
+  m_Layer: 0
+  m_Name: DeinonychusJawBone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &48668852196452372
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2686794085482077984}
+  m_LocalRotation: {x: 0.000000006694004, y: 0.00000023716188, z: -0.84339136, w: 0.53729975}
+  m_LocalPosition: {x: -0.12493595, y: 0.07474182, z: -0.00000007733895}
+  m_LocalScale: {x: 1.0000011, y: 0.999999, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7449828747356767003}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2854523119865480070
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9080299474117529316}
+  m_Layer: 0
+  m_Name: Deinonychus_L_Eye
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9080299474117529316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2854523119865480070}
+  m_LocalRotation: {x: 0.6260635, y: 0.28359687, z: -0.3283925, w: 0.64790094}
+  m_LocalPosition: {x: -0.072216794, y: -0.029498367, z: 0.046739362}
+  m_LocalScale: {x: 1.0000004, y: 0.9999995, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5921905488445953095}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3054546488430235230
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6777703512304505624}
+  m_Layer: 0
+  m_Name: DeinonychusRLegDigit33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6777703512304505624
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3054546488430235230}
+  m_LocalRotation: {x: 0.00000022724278, y: 0.00000016973347, z: -0.00000035669657,
+    w: 1}
+  m_LocalPosition: {x: -0.06533333, y: 0.000000047683713, z: 0.000000019073486}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 5814428278404518743}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3224030049749244194
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 95646774843092134}
+  m_Layer: 0
+  m_Name: DeinonychusRArmDigit01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &95646774843092134
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3224030049749244194}
+  m_LocalRotation: {x: 0.09657834, y: -0.098971225, z: 0.07964307, w: 0.98718506}
+  m_LocalPosition: {x: -0.032563668, y: -0.005639, z: -0.04718311}
+  m_LocalScale: {x: 1.0000002, y: 0.999998, z: 1.0000017}
+  m_Children:
+  - {fileID: 8535361917275789812}
+  m_Father: {fileID: 5597016808185452864}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3440419164397854837
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1422391062849269027}
+  m_Layer: 0
+  m_Name: DeinonychusLArmPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1422391062849269027
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3440419164397854837}
+  m_LocalRotation: {x: -0.6271601, y: -0.24516693, z: 0.2324769, w: 0.70179623}
+  m_LocalPosition: {x: -0.23909089, y: 0.00000030517577, z: 0.0000009155273}
+  m_LocalScale: {x: 0.9999984, y: 1.000001, z: 1.0000008}
+  m_Children:
+  - {fileID: 3157032315432286010}
+  - {fileID: 53616946420219077}
+  - {fileID: 3308453159258187600}
+  - {fileID: 6061449156307354423}
+  m_Father: {fileID: 2481266132309420552}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3623813397304106448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7444217987930523995}
+  m_Layer: 0
+  m_Name: TransformDeinonychus
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7444217987930523995
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3623813397304106448}
+  m_LocalRotation: {x: -0.7071068, y: 0.0000015172866, z: 0.0000015172866, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: -0.000000044547136, z: -1.0842021e-21}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5185483665406170916}
+  m_Father: {fileID: 2082906197509379956}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3728767213620431627
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 347630733476646840}
+  m_Layer: 0
+  m_Name: DeinonychusRLegDigit01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &347630733476646840
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3728767213620431627}
+  m_LocalRotation: {x: -0.7169792, y: -0.34753597, z: -0.16368313, w: 0.5816936}
+  m_LocalPosition: {x: -0.10178982, y: -0.0006322479, z: -0.054000225}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4552386464531179681}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3785005248188294532
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8264394427560992884}
+  m_Layer: 0
+  m_Name: DeinonychusRLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8264394427560992884
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3785005248188294532}
+  m_LocalRotation: {x: 0.73080534, y: -0.6816368, z: 0.0168997, w: 0.03176979}
+  m_LocalPosition: {x: 0.05261896, y: -0.0384935, z: -0.12067907}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 4613824799883292689}
+  m_Father: {fileID: 5185483665406170916}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3861998521498249041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3888745839134567668}
+  m_Layer: 0
+  m_Name: DeinonychusRLegDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3888745839134567668
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3861998521498249041}
+  m_LocalRotation: {x: 0.085100316, y: 0.1675897, z: -0.5701408, w: 0.79975694}
+  m_LocalPosition: {x: -0.21494144, y: -0.00090969086, z: 0.044231433}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_Children:
+  - {fileID: 5814428278404518743}
+  m_Father: {fileID: 4552386464531179681}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3937134423536547231
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 237714751690080989}
+  m_Layer: 0
+  m_Name: DeinonychusNeck2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &237714751690080989
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3937134423536547231}
+  m_LocalRotation: {x: -0.000034440545, y: -0.00000283383, z: 0.08950331, w: 0.9959865}
+  m_LocalPosition: {x: -0.15978149, y: 0, z: -2.3283064e-12}
+  m_LocalScale: {x: 0.9999998, y: 1.0000005, z: 1}
+  m_Children:
+  - {fileID: 1892993464164591758}
+  m_Father: {fileID: 6169966988012530756}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3965931419304491716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 890785265551713037}
+  m_Layer: 0
+  m_Name: DeinonychusLLegDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &890785265551713037
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3965931419304491716}
+  m_LocalRotation: {x: 0.011364275, y: -0.025510173, z: -0.5772858, w: 0.8160644}
+  m_LocalPosition: {x: -0.21502773, y: -0.00023748397, z: -0.009002504}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 1282610189181058080}
+  m_Father: {fileID: 1480333304896571881}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4103723004618450953
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2797864846482035196}
+  m_Layer: 0
+  m_Name: DeinonychusCrest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2797864846482035196
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4103723004618450953}
+  m_LocalRotation: {x: 0.0000007276441, y: 0.0000002517161, z: 0.99144495, w: 0.13052553}
+  m_LocalPosition: {x: -0.091137156, y: -0.07890205, z: 0.00048468096}
+  m_LocalScale: {x: 0.99999946, y: 1.0000006, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5921905488445953095}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4217422205591945536
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4597293715774513838}
+  m_Layer: 0
+  m_Name: DeinonychusTail08
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4597293715774513838
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4217422205591945536}
+  m_LocalRotation: {x: 0.0000000021578366, y: -0.0000029025432, z: 0.039665338, w: 0.99921304}
+  m_LocalPosition: {x: -0.2113736, y: 0, z: -2.910383e-13}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 0.9999999}
+  m_Children:
+  - {fileID: 5827239540185159332}
+  - {fileID: 3577736027638205309}
+  - {fileID: 1789140331344490040}
+  m_Father: {fileID: 2354356027737493603}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4232727828289994840
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5921905488445953095}
+  m_Layer: 0
+  m_Name: DeinonychusHead
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5921905488445953095
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4232727828289994840}
+  m_LocalRotation: {x: -0.00000022812185, y: 0.000001684889, z: -0.1781146, w: 0.98400974}
+  m_LocalPosition: {x: -0.15978149, y: 0, z: -1.4551915e-13}
+  m_LocalScale: {x: 1.000001, y: 0.99999917, z: 1.0000002}
+  m_Children:
+  - {fileID: 9080299474117529316}
+  - {fileID: 7084266256204674801}
+  - {fileID: 1409434944430589493}
+  - {fileID: 4168035076232305022}
+  - {fileID: 7713431614576306769}
+  - {fileID: 6563394719291821220}
+  - {fileID: 2797864846482035196}
+  - {fileID: 7449828747356767003}
+  m_Father: {fileID: 1892993464164591758}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4314541590481262724
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1062347283861739497}
+  m_Layer: 0
+  m_Name: DeinonychusLArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1062347283861739497
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4314541590481262724}
+  m_LocalRotation: {x: -0.50236315, y: 0.31966364, z: -0.34393314, w: 0.7260554}
+  m_LocalPosition: {x: 0.102044374, y: -0.057249527, z: 0.114908814}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2890358037866529572}
+  m_Father: {fileID: 2542396414707741119}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4325654738594092440
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9212753001055237385}
+  m_Layer: 0
+  m_Name: DeinonychusLLegDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9212753001055237385
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4325654738594092440}
+  m_LocalRotation: {x: -0.0850999, y: -0.1675898, z: -0.57014054, w: 0.7997572}
+  m_LocalPosition: {x: -0.2149414, y: -0.0009097481, z: -0.044231415}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 0.99999994}
+  m_Children:
+  - {fileID: 2400928876166488693}
+  m_Father: {fileID: 1480333304896571881}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4460035307107287747
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3505383655446948952}
+  m_Layer: 0
+  m_Name: DeinonychusRArmDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3505383655446948952
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4460035307107287747}
+  m_LocalRotation: {x: -0.0000022738284, y: 0.0000006034952, z: 0.000000094996025,
+    w: 1}
+  m_LocalPosition: {x: -0.044725075, y: -0.000000019073486, z: 0}
+  m_LocalScale: {x: 1.0000026, y: 0.99999815, z: 0.99999905}
+  m_Children:
+  - {fileID: 792429525434498672}
+  m_Father: {fileID: 2694566190539569404}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4535315811235206507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4168035076232305022}
+  m_Layer: 0
+  m_Name: Deinonychus_R_Eye
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4168035076232305022
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4535315811235206507}
+  m_LocalRotation: {x: -0.6260641, y: -0.2835959, z: -0.328392, w: 0.6479012}
+  m_LocalPosition: {x: -0.072216645, y: -0.029498367, z: -0.046739276}
+  m_LocalScale: {x: 0.99999946, y: 1.0000005, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 5921905488445953095}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4536669970822505031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7067156372265573899}
+  m_Layer: 0
+  m_Name: DeinonychusLArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7067156372265573899
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4536669970822505031}
+  m_LocalRotation: {x: -0.0000022724225, y: 0.0000005736964, z: -0.000000087543256,
+    w: 1}
+  m_LocalPosition: {x: -0.044724844, y: 0, z: 0.000000076293944}
+  m_LocalScale: {x: 0.9999973, y: 1.000002, z: 1.0000011}
+  m_Children:
+  - {fileID: 5835557833333482804}
+  m_Father: {fileID: 6061449156307354423}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4636961651703897572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5567497844889758588}
+  m_Layer: 0
+  m_Name: DeinonychusTail06
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5567497844889758588
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4636961651703897572}
+  m_LocalRotation: {x: 0.00000021185313, y: -0.0000020483233, z: 0.006644178, w: 0.99997795}
+  m_LocalPosition: {x: -0.21137238, y: 0, z: 2.910383e-13}
+  m_LocalScale: {x: 1.0000002, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2354356027737493603}
+  m_Father: {fileID: 6928004705537167652}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4818197100438407650
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5814428278404518743}
+  m_Layer: 0
+  m_Name: DeinonychusRLegDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5814428278404518743
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4818197100438407650}
+  m_LocalRotation: {x: 0.00000022724278, y: 0.00000016973347, z: -0.00000035669657,
+    w: 1}
+  m_LocalPosition: {x: -0.06533332, y: 0.00000004529953, z: 0.000000057220458}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 6777703512304505624}
+  m_Father: {fileID: 3888745839134567668}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5013923272918977460
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2542396414707741119}
+  m_Layer: 0
+  m_Name: DeinonychusRibcage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2542396414707741119
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5013923272918977460}
+  m_LocalRotation: {x: 0.000000005661641, y: 0.000000037944957, z: 0.04611726, w: 0.99893606}
+  m_LocalPosition: {x: -0.21540691, y: -0.000000076293944, z: -4.5474734e-15}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 1062347283861739497}
+  - {fileID: 6169966988012530756}
+  - {fileID: 9005607029402612568}
+  m_Father: {fileID: 2278855609246232520}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5053286278633067290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3577736027638205309}
+  m_Layer: 0
+  m_Name: Deinonychus_R_Feathers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3577736027638205309
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5053286278633067290}
+  m_LocalRotation: {x: -0.049409375, y: -0.3384341, z: 0.08020708, w: 0.9362627}
+  m_LocalPosition: {x: -0.21137314, y: -0.000000076293944, z: -5.820766e-13}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4597293715774513838}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5079892309184050611
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2278855609246232520}
+  m_Layer: 0
+  m_Name: DeinonychusSpine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2278855609246232520
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5079892309184050611}
+  m_LocalRotation: {x: -0.00000007668953, y: 0.0000000019218502, z: 0.018424805, w: 0.9998303}
+  m_LocalPosition: {x: -0.21540691, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2542396414707741119}
+  m_Father: {fileID: 6983822444049053292}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5152683626514749539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4613824799883292689}
+  m_Layer: 0
+  m_Name: DeinonychusRLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4613824799883292689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5152683626514749539}
+  m_LocalRotation: {x: 0.016889, y: -0.018102938, z: 0.46504626, w: 0.88494015}
+  m_LocalPosition: {x: -0.4305198, y: 0.00000015258789, z: -0.000000114440915}
+  m_LocalScale: {x: 1.0000019, y: 0.99999845, z: 1.0000002}
+  m_Children:
+  - {fileID: 4552386464531179681}
+  m_Father: {fileID: 8264394427560992884}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5162771215721459365
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5904729644249096887}
+  - component: {fileID: 7283886893332324874}
+  m_Layer: 0
+  m_Name: Deinonychus
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5904729644249096887
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5162771215721459365}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2082906197509379956}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &7283886893332324874
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5162771215721459365}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: ddbea38d0d211954aa0764e150605639, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -2060228506022154024, guid: 26bd389a7bd59b44b97cc9777f5b35b2, type: 3}
+  m_Bones:
+  - {fileID: 2278855609246232520}
+  - {fileID: 2542396414707741119}
+  - {fileID: 1062347283861739497}
+  - {fileID: 6169966988012530756}
+  - {fileID: 2890358037866529572}
+  - {fileID: 6983822444049053292}
+  - {fileID: 1796457216358821488}
+  - {fileID: 5185483665406170916}
+  - {fileID: 237714751690080989}
+  - {fileID: 3758297326537245894}
+  - {fileID: 3697094941009828882}
+  - {fileID: 4272451581476423239}
+  - {fileID: 9080299474117529316}
+  - {fileID: 5183545622643809361}
+  - {fileID: 8068335472543288387}
+  - {fileID: 6928004705537167652}
+  - {fileID: 5567497844889758588}
+  - {fileID: 2354356027737493603}
+  - {fileID: 4597293715774513838}
+  - {fileID: 1892993464164591758}
+  - {fileID: 48668852196452372}
+  - {fileID: 5921905488445953095}
+  - {fileID: 1409434944430589493}
+  - {fileID: 7084266256204674801}
+  - {fileID: 2797864846482035196}
+  - {fileID: 7449828747356767003}
+  - {fileID: 2481266132309420552}
+  - {fileID: 3889308239434342836}
+  - {fileID: 3308453159258187600}
+  - {fileID: 1422391062849269027}
+  - {fileID: 6061449156307354423}
+  - {fileID: 7067156372265573899}
+  - {fileID: 53616946420219077}
+  - {fileID: 5105020217191148540}
+  - {fileID: 3615883392569469268}
+  - {fileID: 1480333304896571881}
+  - {fileID: 679103771585253206}
+  - {fileID: 7086496304497875352}
+  - {fileID: 8369394859206139543}
+  - {fileID: 8667008822686884365}
+  - {fileID: 1789140331344490040}
+  - {fileID: 5827239540185159332}
+  - {fileID: 2594236368894819235}
+  - {fileID: 3570829957781991209}
+  - {fileID: 9212753001055237385}
+  - {fileID: 5530033571023253676}
+  - {fileID: 890785265551713037}
+  - {fileID: 2400928876166488693}
+  - {fileID: 1488856907102486826}
+  - {fileID: 1282610189181058080}
+  - {fileID: 7446530084801448350}
+  - {fileID: 422461316799109472}
+  - {fileID: 5835557833333482804}
+  - {fileID: 4776346791184947786}
+  - {fileID: 3577736027638205309}
+  - {fileID: 8264394427560992884}
+  - {fileID: 9005607029402612568}
+  - {fileID: 8243848448412501947}
+  - {fileID: 4613824799883292689}
+  - {fileID: 4168035076232305022}
+  - {fileID: 6563394719291821220}
+  - {fileID: 7713431614576306769}
+  - {fileID: 2827359114916147913}
+  - {fileID: 2943635194721958492}
+  - {fileID: 5627609682997202231}
+  - {fileID: 5597016808185452864}
+  - {fileID: 95646774843092134}
+  - {fileID: 31412317152167651}
+  - {fileID: 2694566190539569404}
+  - {fileID: 8535361917275789812}
+  - {fileID: 2003548698918959390}
+  - {fileID: 4552386464531179681}
+  - {fileID: 347630733476646840}
+  - {fileID: 3505383655446948952}
+  - {fileID: 2858522264902216141}
+  - {fileID: 3888745839134567668}
+  - {fileID: 3282149180250029836}
+  - {fileID: 4003218178211986424}
+  - {fileID: 1653731461590661296}
+  - {fileID: 5814428278404518743}
+  - {fileID: 6777703512304505624}
+  - {fileID: 609209908802090874}
+  - {fileID: 7507336959577669174}
+  - {fileID: 792429525434498672}
+  - {fileID: 3157032315432286010}
+  - {fileID: 3786123874806771714}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 5185483665406170916}
+  m_AABB:
+    m_Center: {x: 0.5367944, y: 0.27728412, z: -0.0000022351742}
+    m_Extent: {x: 1.8521163, y: 0.7041775, z: 0.7249472}
+  m_DirtyAABB: 0
+--- !u!1 &5178280745994877695
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8068335472543288387}
+  m_Layer: 0
+  m_Name: DeinonychusTail04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8068335472543288387
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5178280745994877695}
+  m_LocalRotation: {x: -0.0000033530043, y: 0.000022473478, z: -0.0787739, w: 0.9968925}
+  m_LocalPosition: {x: -0.21164078, y: -0.000000076293944, z: -2.3283064e-12}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 6928004705537167652}
+  m_Father: {fileID: 5183545622643809361}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5225668329676678388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2003548698918959390}
+  m_Layer: 0
+  m_Name: DeinonychusRArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2003548698918959390
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5225668329676678388}
+  m_LocalRotation: {x: -0.0000022862268, y: 0.0000009350465, z: -0.000000020021266,
+    w: 1}
+  m_LocalPosition: {x: -0.070866816, y: 0, z: 0.00000015258789}
+  m_LocalScale: {x: 1.0000015, y: 0.99999803, z: 1.0000001}
+  m_Children:
+  - {fileID: 2858522264902216141}
+  m_Father: {fileID: 5627609682997202231}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5263790098624467849
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3786123874806771714}
+  m_Layer: 0
+  m_Name: Deinonychus_R_PalmFeathers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3786123874806771714
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5263790098624467849}
+  m_LocalRotation: {x: -0.0000044759663, y: 0.21643978, z: -0.00000030504955, w: 0.97629595}
+  m_LocalPosition: {x: -0.0307806, y: 0.020963553, z: -0.0037571716}
+  m_LocalScale: {x: 1.0000023, y: 0.9999991, z: 0.99999833}
+  m_Children: []
+  m_Father: {fileID: 5597016808185452864}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5269257797795374704
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9005607029402612568}
+  m_Layer: 0
+  m_Name: DeinonychusRArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9005607029402612568
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5269257797795374704}
+  m_LocalRotation: {x: 0.5023628, y: -0.31966344, z: -0.34393364, w: 0.7260555}
+  m_LocalPosition: {x: 0.102044374, y: -0.057249527, z: -0.11490883}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 8243848448412501947}
+  m_Father: {fileID: 2542396414707741119}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5277954859473195180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3157032315432286010}
+  m_Layer: 0
+  m_Name: Deinonychus_L_PalmFeathers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3157032315432286010
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5277954859473195180}
+  m_LocalRotation: {x: -0.0000009327237, y: -0.21643965, z: -0.0000027442522, w: 0.976296}
+  m_LocalPosition: {x: -0.030780487, y: 0.020963516, z: 0.0037570952}
+  m_LocalScale: {x: 0.9999975, y: 1.000001, z: 1.0000018}
+  m_Children: []
+  m_Father: {fileID: 1422391062849269027}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5387442733704052237
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6563394719291821220}
+  m_Layer: 0
+  m_Name: Deinonychus_R_EyeLid_Upper
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6563394719291821220
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5387442733704052237}
+  m_LocalRotation: {x: 0.7677733, y: 0.38800332, z: 0.3049723, w: -0.40861908}
+  m_LocalPosition: {x: -0.07221672, y: -0.029498367, z: -0.046739306}
+  m_LocalScale: {x: 0.9999999, y: 0.9999996, z: 1.0000005}
+  m_Children: []
+  m_Father: {fileID: 5921905488445953095}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5408210196166092915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 792429525434498672}
+  m_Layer: 0
+  m_Name: DeinonychusRArmDigit24
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &792429525434498672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5408210196166092915}
+  m_LocalRotation: {x: -0.0000022738284, y: 0.0000006034952, z: 0.000000094996025,
+    w: 1}
+  m_LocalPosition: {x: -0.04472515, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000026, y: 0.99999815, z: 0.99999905}
+  m_Children: []
+  m_Father: {fileID: 3505383655446948952}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5472199919850068250
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6169966988012530756}
+  m_Layer: 0
+  m_Name: DeinonychusNeck1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6169966988012530756
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5472199919850068250}
+  m_LocalRotation: {x: 0.00003239274, y: 0.000009688084, z: 0.19290408, w: 0.9812176}
+  m_LocalPosition: {x: -0.061079253, y: -0.004673233, z: -0.000000011598093}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 237714751690080989}
+  m_Father: {fileID: 2542396414707741119}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5478725286344796101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7507336959577669174}
+  m_Layer: 0
+  m_Name: DeinonychusRLegDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7507336959577669174
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5478725286344796101}
+  m_LocalRotation: {x: 0.013036286, y: -0.02046269, z: -0.51311404, w: 0.85797745}
+  m_LocalPosition: {x: -0.09918645, y: -0.0000000047683715, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 4003218178211986424}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5500036928374419008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5185483665406170916}
+  m_Layer: 0
+  m_Name: DeinonychusPelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5185483665406170916
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5500036928374419008}
+  m_LocalRotation: {x: 0.51876515, y: 0.48050252, z: -0.518763, w: -0.48050493}
+  m_LocalPosition: {x: -0.00000026611966, y: -0.058037944, z: 0.9037808}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1796457216358821488}
+  - {fileID: 8264394427560992884}
+  - {fileID: 6983822444049053292}
+  - {fileID: 3758297326537245894}
+  m_Father: {fileID: 7444217987930523995}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5512064749024936260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3282149180250029836}
+  m_Layer: 0
+  m_Name: DeinonychusRLegDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3282149180250029836
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5512064749024936260}
+  m_LocalRotation: {x: -0.011364297, y: 0.025510157, z: -0.5772862, w: 0.81606424}
+  m_LocalPosition: {x: -0.21502776, y: -0.00023744583, z: 0.009002504}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_Children:
+  - {fileID: 1653731461590661296}
+  m_Father: {fileID: 4552386464531179681}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5679780256493311101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 609209908802090874}
+  m_Layer: 0
+  m_Name: DeinonychusRLegDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &609209908802090874
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5679780256493311101}
+  m_LocalRotation: {x: -0.000000013038517, y: -5.2386306e-10, z: -0.00000045448547,
+    w: 1}
+  m_LocalPosition: {x: -0.056633305, y: 0.000000052452087, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1653731461590661296}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5752704408535193424
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1282610189181058080}
+  m_Layer: 0
+  m_Name: DeinonychusLLegDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1282610189181058080
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5752704408535193424}
+  m_LocalRotation: {x: -0.000000013038517, y: -0.0000000014551975, z: 0.00000046007338,
+    w: 1}
+  m_LocalPosition: {x: -0.056633327, y: -0.00000005364418, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 7446530084801448350}
+  m_Father: {fileID: 890785265551713037}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5766193458548522063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4272451581476423239}
+  m_Layer: 0
+  m_Name: DeinonychusTail02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4272451581476423239
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5766193458548522063}
+  m_LocalRotation: {x: 0.0000011412312, y: 0.000046916033, z: -0.024025219, w: 0.9997114}
+  m_LocalPosition: {x: -0.21164887, y: 0.000000076293944, z: -8.54925e-13}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 5183545622643809361}
+  m_Father: {fileID: 3758297326537245894}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5785877151316734074
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7449828747356767003}
+  m_Layer: 0
+  m_Name: DeinonychusJaw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7449828747356767003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5785877151316734074}
+  m_LocalRotation: {x: 0.00000045789432, y: 0.00000037524865, z: -0.2675289, w: 0.96354985}
+  m_LocalPosition: {x: 0.059784163, y: 0.07857719, z: 0.00000009288269}
+  m_LocalScale: {x: 0.999999, y: 1.0000011, z: 1}
+  m_Children:
+  - {fileID: 48668852196452372}
+  - {fileID: 7086496304497875352}
+  m_Father: {fileID: 5921905488445953095}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5922768527975664694
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3570829957781991209}
+  m_Layer: 0
+  m_Name: DeinonychusLArmDigit13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3570829957781991209
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5922768527975664694}
+  m_LocalRotation: {x: -0.0000022970733, y: 0.0000009685772, z: 0.000000031201587,
+    w: 1}
+  m_LocalPosition: {x: -0.07086655, y: 0.000000019073486, z: 0.000000114440915}
+  m_LocalScale: {x: 0.9999982, y: 1.0000021, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5105020217191148540}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6029623090158799527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5530033571023253676}
+  m_Layer: 0
+  m_Name: DeinonychusLLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5530033571023253676
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6029623090158799527}
+  m_LocalRotation: {x: 0.04978947, y: 0.074149996, z: -0.690579, w: 0.71772105}
+  m_LocalPosition: {x: -0.21517019, y: 0.000578804, z: 0.034138527}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 422461316799109472}
+  m_Father: {fileID: 1480333304896571881}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6223165361718290900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8535361917275789812}
+  m_Layer: 0
+  m_Name: DeinonychusRArmDigit02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8535361917275789812
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6223165361718290900}
+  m_LocalRotation: {x: -0.0000019446043, y: 0.000001102688, z: -0.0000011809146, w: 1}
+  m_LocalPosition: {x: -0.05453472, y: 0.000000114440915, z: 0.00000015258789}
+  m_LocalScale: {x: 1.0000002, y: 0.9999979, z: 1.0000015}
+  m_Children: []
+  m_Father: {fileID: 95646774843092134}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6238372325445349811
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8667008822686884365}
+  m_Layer: 0
+  m_Name: DeinonychusTongue3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8667008822686884365
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6238372325445349811}
+  m_LocalRotation: {x: -0.00000018905835, y: 0.00000005553012, z: 0.00000014901173,
+    w: 1}
+  m_LocalPosition: {x: -0.0809999, y: 0, z: 0.000000008940696}
+  m_LocalScale: {x: 0.99999934, y: 1.0000007, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 8369394859206139543}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6519230116380842047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2827359114916147913}
+  m_Layer: 0
+  m_Name: DeinonychusRArm2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2827359114916147913
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6519230116380842047}
+  m_LocalRotation: {x: 0.08846084, y: -0.06423348, z: -0.7953923, w: 0.5961543}
+  m_LocalPosition: {x: -0.24892513, y: 0.00000064849854, z: -0.0000010299682}
+  m_LocalScale: {x: 0.99999917, y: 1.0000025, z: 0.99999833}
+  m_Children:
+  - {fileID: 2943635194721958492}
+  - {fileID: 5597016808185452864}
+  m_Father: {fileID: 8243848448412501947}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6525214188681314208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3758297326537245894}
+  m_Layer: 0
+  m_Name: DeinonychusTail01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3758297326537245894
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6525214188681314208}
+  m_LocalRotation: {x: 0.00001503798, y: -0.00000090146966, z: 0.99987525, w: 0.015797615}
+  m_LocalPosition: {x: 0.096038885, y: -0.013236541, z: -0.0000011103496}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4272451581476423239}
+  m_Father: {fileID: 5185483665406170916}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6533232720825802291
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2694566190539569404}
+  m_Layer: 0
+  m_Name: DeinonychusRArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2694566190539569404
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6533232720825802291}
+  m_LocalRotation: {x: -0.0000022738284, y: 0.0000006034952, z: 0.000000094996025,
+    w: 1}
+  m_LocalPosition: {x: -0.044725113, y: 0, z: 0.000000038146972}
+  m_LocalScale: {x: 1.0000026, y: 0.99999815, z: 0.99999905}
+  m_Children:
+  - {fileID: 3505383655446948952}
+  m_Father: {fileID: 31412317152167651}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6659750351942980995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4003218178211986424}
+  m_Layer: 0
+  m_Name: DeinonychusRLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4003218178211986424
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6659750351942980995}
+  m_LocalRotation: {x: -0.049789533, y: -0.074149966, z: -0.69057894, w: 0.7177211}
+  m_LocalPosition: {x: -0.2151702, y: 0.0005788517, z: -0.034138564}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7507336959577669174}
+  m_Father: {fileID: 4552386464531179681}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6896098960724906236
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4552386464531179681}
+  m_Layer: 0
+  m_Name: DeinonychusRLegPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4552386464531179681
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6896098960724906236}
+  m_LocalRotation: {x: -0.030371554, y: -0.017124943, z: -0.5321621, w: 0.84592426}
+  m_LocalPosition: {x: -0.4043694, y: -0.00000125885, z: 0.000002155304}
+  m_LocalScale: {x: 0.99999744, y: 1.0000027, z: 1.0000002}
+  m_Children:
+  - {fileID: 347630733476646840}
+  - {fileID: 4003218178211986424}
+  - {fileID: 3282149180250029836}
+  - {fileID: 3888745839134567668}
+  m_Father: {fileID: 4613824799883292689}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7049272236557005840
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8369394859206139543}
+  m_Layer: 0
+  m_Name: DeinonychusTongue2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8369394859206139543
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7049272236557005840}
+  m_LocalRotation: {x: -0.00000018905835, y: 0.00000005553012, z: 0.00000014901173,
+    w: 1}
+  m_LocalPosition: {x: -0.080999985, y: 0, z: 0.000000008940696}
+  m_LocalScale: {x: 0.99999934, y: 1.0000007, z: 0.99999994}
+  m_Children:
+  - {fileID: 8667008822686884365}
+  m_Father: {fileID: 7086496304497875352}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7135938034677500229
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6928004705537167652}
+  m_Layer: 0
+  m_Name: DeinonychusTail05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6928004705537167652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7135938034677500229}
+  m_LocalRotation: {x: 0.00000033842346, y: -0.0000021173403, z: 0.06830868, w: 0.9976642}
+  m_LocalPosition: {x: -0.21398841, y: -0.00000015258789, z: 0}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 5567497844889758588}
+  m_Father: {fileID: 8068335472543288387}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7172784711901174359
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8243848448412501947}
+  m_Layer: 0
+  m_Name: DeinonychusRArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8243848448412501947
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7172784711901174359}
+  m_LocalRotation: {x: 0.42524728, y: -0.5566799, z: 0.48112398, w: 0.52705985}
+  m_LocalPosition: {x: -0.23548163, y: -0.00000061035155, z: 0.0000005340576}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+  m_Children:
+  - {fileID: 2827359114916147913}
+  m_Father: {fileID: 9005607029402612568}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7194326795670404560
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5827239540185159332}
+  m_Layer: 0
+  m_Name: Deinonychus_L_Feathers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5827239540185159332
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7194326795670404560}
+  m_LocalRotation: {x: 0.04940946, y: 0.338434, z: 0.080207005, w: 0.9362628}
+  m_LocalPosition: {x: -0.21137314, y: -0.000000076293944, z: -5.820766e-13}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4597293715774513838}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7494743764245711983
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6983822444049053292}
+  m_Layer: 0
+  m_Name: DeinonychusSpine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6983822444049053292
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7494743764245711983}
+  m_LocalRotation: {x: 0.00000004142514, y: -0.000000039504442, z: -0.03774133, w: 0.99928755}
+  m_LocalPosition: {x: -0.014401607, y: -0.02211525, z: -0.000000001781409}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 2278855609246232520}
+  m_Father: {fileID: 5185483665406170916}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7517833342448582203
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7713431614576306769}
+  m_Layer: 0
+  m_Name: Deinonychus_R_EyeLid_Lower
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7713431614576306769
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7517833342448582203}
+  m_LocalRotation: {x: -0.45399827, y: -0.083458714, z: -0.69019663, w: 0.55726916}
+  m_LocalPosition: {x: -0.07221672, y: -0.029498367, z: -0.046739306}
+  m_LocalScale: {x: 1, y: 0.99999964, z: 1.0000004}
+  m_Children: []
+  m_Father: {fileID: 5921905488445953095}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7799070604724065821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1488856907102486826}
+  m_Layer: 0
+  m_Name: DeinonychusLLegDigit33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1488856907102486826
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7799070604724065821}
+  m_LocalRotation: {x: 0.00000022351736, y: 0.00000016245765, z: 0.00000035669652,
+    w: 1}
+  m_LocalPosition: {x: -0.065333344, y: -0.000000044107438, z: 0.000000019073486}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2400928876166488693}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7845908835006808965
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4776346791184947786}
+  m_Layer: 0
+  m_Name: DeinonychusLArmDigit24
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4776346791184947786
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7845908835006808965}
+  m_LocalRotation: {x: -0.0000022724225, y: 0.0000005736964, z: -0.000000087543256,
+    w: 1}
+  m_LocalPosition: {x: -0.04472488, y: 0, z: 0.000000076293944}
+  m_LocalScale: {x: 0.9999973, y: 1.000002, z: 1.0000011}
+  m_Children: []
+  m_Father: {fileID: 5835557833333482804}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7865211748940951603
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7086496304497875352}
+  m_Layer: 0
+  m_Name: DeinonychusTongue1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7086496304497875352
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7865211748940951603}
+  m_LocalRotation: {x: 0.0025324752, y: 0.0012371585, z: 0.1006151, w: 0.99492145}
+  m_LocalPosition: {x: -0.10785736, y: -0.020281982, z: 0.0005790494}
+  m_LocalScale: {x: 0.9999993, y: 1.0000007, z: 1}
+  m_Children:
+  - {fileID: 8369394859206139543}
+  m_Father: {fileID: 7449828747356767003}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8029007081369727858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 422461316799109472}
+  m_Layer: 0
+  m_Name: DeinonychusLLegDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &422461316799109472
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8029007081369727858}
+  m_LocalRotation: {x: -0.01303622, y: 0.020462528, z: -0.51311463, w: 0.85797715}
+  m_LocalPosition: {x: -0.09918646, y: 0.000000009536743, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5530033571023253676}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8180102561596030511
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3697094941009828882}
+  m_Layer: 0
+  m_Name: DeinonychusLLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3697094941009828882
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8180102561596030511}
+  m_LocalRotation: {x: -0.016906053, y: 0.018128842, z: 0.4649593, w: 0.88498497}
+  m_LocalPosition: {x: -0.43051982, y: 0.00000015258789, z: 0.0000001335144}
+  m_LocalScale: {x: 1.0000005, y: 0.9999995, z: 1.0000001}
+  m_Children:
+  - {fileID: 1480333304896571881}
+  m_Father: {fileID: 1796457216358821488}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8355434251788603536
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7084266256204674801}
+  m_Layer: 0
+  m_Name: Deinonychus_L_EyeLid_Lower
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7084266256204674801
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8355434251788603536}
+  m_LocalRotation: {x: 0.4539979, y: 0.08345941, z: -0.69019616, w: 0.5572699}
+  m_LocalPosition: {x: -0.07221687, y: -0.029498367, z: 0.046739392}
+  m_LocalScale: {x: 0.9999998, y: 0.9999989, z: 1.0000011}
+  m_Children: []
+  m_Father: {fileID: 5921905488445953095}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8492090163216258984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1409434944430589493}
+  m_Layer: 0
+  m_Name: Deinonychus_L_EyeLid_Upper
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1409434944430589493
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8492090163216258984}
+  m_LocalRotation: {x: 0.7677734, y: 0.38800326, z: -0.30497238, w: 0.408619}
+  m_LocalPosition: {x: -0.07221687, y: -0.029498367, z: 0.046739392}
+  m_LocalScale: {x: 1.0000008, y: 0.9999989, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 5921905488445953095}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8701344658852128608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5835557833333482804}
+  m_Layer: 0
+  m_Name: DeinonychusLArmDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5835557833333482804
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8701344658852128608}
+  m_LocalRotation: {x: -0.0000022724225, y: 0.0000005736964, z: -0.000000087543256,
+    w: 1}
+  m_LocalPosition: {x: -0.04472488, y: 0.000000019073486, z: 0.000000038146972}
+  m_LocalScale: {x: 0.9999973, y: 1.000002, z: 1.0000011}
+  m_Children:
+  - {fileID: 4776346791184947786}
+  m_Father: {fileID: 7067156372265573899}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8831882644004162009
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2481266132309420552}
+  m_Layer: 0
+  m_Name: DeinonychusLArm2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2481266132309420552
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8831882644004162009}
+  m_LocalRotation: {x: -0.08845655, y: 0.06423388, z: -0.7953934, w: 0.5961534}
+  m_LocalPosition: {x: -0.24892513, y: -0.0000005340576, z: -0.0000010299682}
+  m_LocalScale: {x: 1.0000008, y: 0.9999976, z: 1.0000017}
+  m_Children:
+  - {fileID: 3889308239434342836}
+  - {fileID: 1422391062849269027}
+  m_Father: {fileID: 2890358037866529572}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9132681979776868687
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2890358037866529572}
+  m_Layer: 0
+  m_Name: DeinonychusLArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2890358037866529572
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9132681979776868687}
+  m_LocalRotation: {x: -0.4252333, y: 0.5566911, z: 0.48111206, w: 0.52707016}
+  m_LocalPosition: {x: -0.2354816, y: -0.0000008392334, z: -0.0000008392334}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_Children:
+  - {fileID: 2481266132309420552}
+  m_Father: {fileID: 1062347283861739497}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
